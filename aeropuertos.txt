@@ -1,0 +1,6 @@
+Barcelona,BCN,Espana,74,34,85,UTC11
+Vaperum,VPR,Espana,40,84,124,UTC3
+Croissant,CRS,Francia,60,92,100,UTC12
+Pepperoni,PRN,Italia,30,76,142,UTC4
+Sparta,SPR,Grecia,24,54,60,UTC4
+Adolfo,HTL,Alemania,60,90,140,UTC1

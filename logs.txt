@@ -1,0 +1,4 @@
+Warning: El sistema no esta actualizado
+Warning: El antivirus no esta activado
+Error: No tienes permisos para realizar esa funcion
+Error: El programa no responde
